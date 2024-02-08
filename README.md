@@ -1,6 +1,6 @@
 # Walmart Sales Dataset
 
-![Walmart]([https://images.unsplash.com/photo-1531593727584-9ca3cfa3d53e](https://images.spiceworks.com/wp-content/uploads/2020/10/13075044/Picture3.png)
+![Walmart](https://images.spiceworks.com/wp-content/uploads/2020/10/13075044/Picture3.png)
 
 This repository contains a dataset of weekly sales data from Walmart stores across various locations. The dataset provides insights into store performance, weekly sales figures, dates, and holiday flags, allowing for analysis of sales trends and the impact of holidays on sales.
 
